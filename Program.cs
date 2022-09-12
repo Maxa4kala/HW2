@@ -18,8 +18,6 @@ for (int i = 0; i < stringArrayNew.Length; i++)
 }
 System.Console.Write($"]");
 
-// метод принимает целое число stringSize и массив строк и возвращает массив
-// из имеющихся строк, длинна которых <= stringSize
 
 string[] StrnigArrayNew(int stringSize, string[] stringArray)
 {
